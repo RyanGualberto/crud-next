@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "src/back/config.js"  ],
+, "src/back/config.ts"  ],
   "exclude": [
     "node_modules"
   ]
